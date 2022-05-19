@@ -1,2 +1,2 @@
 # BEVerse
-The official repository for BEVerse
+The official repository for BEVerse.
